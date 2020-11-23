@@ -9,3 +9,5 @@ Hold Space to pause.
 Up and Down arrow keys raise and lower framerate.
 
 Left and Right arrow keys rotate the simulation.
+
+This one is better: https://github.com/billyPersistent/Better-Cellular-Automata
